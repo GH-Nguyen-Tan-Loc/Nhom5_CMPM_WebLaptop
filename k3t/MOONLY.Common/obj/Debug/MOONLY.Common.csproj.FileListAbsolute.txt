@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Downloads\Thiet ke web ban laptop ASP.Net\Code thiet ke web ban laptop\MOONLY\MOONLY.Common\bin\Debug\MOONLY.Common.dll
+C:\Users\ADMIN\Downloads\Thiet ke web ban laptop ASP.Net\Code thiet ke web ban laptop\MOONLY\MOONLY.Common\bin\Debug\MOONLY.Common.pdb
+C:\Users\ADMIN\Downloads\Thiet ke web ban laptop ASP.Net\Code thiet ke web ban laptop\MOONLY\MOONLY.Common\bin\Debug\MOONLY.Operational.dll
+C:\Users\ADMIN\Downloads\Thiet ke web ban laptop ASP.Net\Code thiet ke web ban laptop\MOONLY\MOONLY.Common\bin\Debug\MOONLY.Operational.pdb
+C:\Users\ADMIN\Downloads\Thiet ke web ban laptop ASP.Net\Code thiet ke web ban laptop\MOONLY\MOONLY.Common\obj\Debug\MOONLY.Common.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Thiet ke web ban laptop ASP.Net\Code thiet ke web ban laptop\MOONLY\MOONLY.Common\obj\Debug\MOONLY.Common.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Thiet ke web ban laptop ASP.Net\Code thiet ke web ban laptop\MOONLY\MOONLY.Common\obj\Debug\MOONLY.Common.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Thiet ke web ban laptop ASP.Net\Code thiet ke web ban laptop\MOONLY\MOONLY.Common\obj\Debug\MOONLY.Common.dll
+C:\Users\ADMIN\Downloads\Thiet ke web ban laptop ASP.Net\Code thiet ke web ban laptop\MOONLY\MOONLY.Common\obj\Debug\MOONLY.Common.pdb
